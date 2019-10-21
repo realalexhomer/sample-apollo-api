@@ -1,0 +1,21 @@
+{
+  "name": "sample-apollo-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/realalexhomer/sample-apollo-api.git",
+  "keywords": [],
+  "author": "alex homer <realalexhomer@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realalexhomer/sample-apollo-api/issues"
+  },
+  "homepage": "https://github.com/realalexhomer/sample-apollo-api#readme",
+  "dependencies": {
+    "apollo-server": "^2.9.7",
+    "graphql": "^14.5.8"
+  }
+}
